@@ -1,0 +1,849 @@
+Begin Object Class=/Script/Engine.Material Name="M_StylizedVolumetricClouds" ExportPath="/Script/Engine.Material'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds'"
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_10" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_10'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMax Name="MaterialExpressionMax_0" ExportPath="/Script/Engine.MaterialExpressionMax'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMax_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_6" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_5" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_4" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_3" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_1" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionDivide Name="MaterialExpressionDivide_0" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionCustom Name="MaterialExpressionCustom_1" ExportPath="/Script/Engine.MaterialExpressionCustom'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionCustom_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionCustom Name="MaterialExpressionCustom_0" ExportPath="/Script/Engine.MaterialExpressionCustom'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionCustom_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_0" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComponentMask_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_7" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_6" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_5" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_4" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_3" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_2" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionComment Name="MaterialExpressionComment_1" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionCloudSampleAttribute Name="MaterialExpressionCloudSampleAttribute_0" ExportPath="/Script/Engine.MaterialExpressionCloudSampleAttribute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionCloudSampleAttribute_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAppendVector Name="MaterialExpressionAppendVector_1" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionAppendVector_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_3" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionAdd_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_2" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionAdd_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionAdd Name="MaterialExpressionAdd_1" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionAdd_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialEditorOnlyData Name="M_StylizedVolumetricCloudsEditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:M_StylizedVolumetricCloudsEditorOnlyData'"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_2" ExportPath="/Script/Engine.MaterialExpressionWorldPosition'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionWorldPosition_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_0" ExportPath="/Script/Engine.MaterialExpressionWorldPosition'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionWorldPosition_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVolumetricAdvancedMaterialOutput Name="MaterialExpressionVolumetricAdvancedMaterialOutput_0" ExportPath="/Script/Engine.MaterialExpressionVolumetricAdvancedMaterialOutput'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVolumetricAdvancedMaterialOutput_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_8" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_4" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_3" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_10" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_10'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_1" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_1" ExportPath="/Script/Engine.MaterialExpressionTime'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionTime_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTime Name="MaterialExpressionTime_0" ExportPath="/Script/Engine.MaterialExpressionTime'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionTime_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSampleParameter2D Name="MaterialExpressionTextureSampleParameter2D_0" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionTextureSampleParameter2D_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2" ExportPath="/Script/Engine.MaterialExpressionTextureSample'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionTextureSample_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_1" ExportPath="/Script/Engine.MaterialExpressionSubtract'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionSubtract_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionSubtract Name="MaterialExpressionSubtract_0" ExportPath="/Script/Engine.MaterialExpressionSubtract'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionSubtract_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticComponentMaskParameter Name="MaterialExpressionStaticComponentMaskParameter_1" ExportPath="/Script/Engine.MaterialExpressionStaticComponentMaskParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionStaticComponentMaskParameter_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionStaticComponentMaskParameter Name="MaterialExpressionStaticComponentMaskParameter_0" ExportPath="/Script/Engine.MaterialExpressionStaticComponentMaskParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionStaticComponentMaskParameter_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_9" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_8" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_7" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_6" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_5" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_4" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_6" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionReroute_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_5" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionReroute_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_2" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionReroute_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionReroute Name="MaterialExpressionReroute_1" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionReroute_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_2" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionOneMinus_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_1" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionOneMinus_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_0" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionOneMinus_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteUsage Name="MaterialExpressionNamedRerouteUsage_5" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteUsage Name="MaterialExpressionNamedRerouteUsage_3" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteUsage Name="MaterialExpressionNamedRerouteUsage_2" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteUsage Name="MaterialExpressionNamedRerouteUsage_1" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteUsage Name="MaterialExpressionNamedRerouteUsage_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteDeclaration Name="MaterialExpressionNamedRerouteDeclaration_5" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteDeclaration Name="MaterialExpressionNamedRerouteDeclaration_3" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_3'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteDeclaration Name="MaterialExpressionNamedRerouteDeclaration_2" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_2'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteDeclaration Name="MaterialExpressionNamedRerouteDeclaration_1" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_1'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionNamedRerouteDeclaration Name="MaterialExpressionNamedRerouteDeclaration_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_0'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_9" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_9'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_8" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_8'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_7" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_7'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_6" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_6'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_5" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_5'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_4" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_4'"
+   End Object
+   Begin Object Class=/Script/Engine.MaterialExpressionMultiply Name="MaterialExpressionMultiply_3" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_3'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_10" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_10'"
+      A=(Expression="/Script/Engine.MaterialExpressionTime'M_StylizedVolumetricClouds:MaterialExpressionTime_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_6'")
+      MaterialExpressionEditorX=-4064
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=21C782F943023F59F8B8CE8FC4F2028B
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionAdd'M_StylizedVolumetricClouds:MaterialExpressionAdd_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_0'")
+      MaterialExpressionEditorX=-1920
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=63180BD34EB4269A753BBFB71AFE080E
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_0" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_1'",OutputIndex=1,Mask=1,MaskR=1)
+      ConstB=100000.000000
+      MaterialExpressionEditorX=-3216
+      MaterialExpressionEditorY=-400
+      MaterialExpressionGuid=F2953E9C4C1EC8620EC147B671507669
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMax_0" ExportPath="/Script/Engine.MaterialExpressionMax'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMax_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_7'")
+      ConstB=0.010000
+      MaterialExpressionEditorX=-2480
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=B99F52554E42280EDBBFAA9099AC58C1
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionDivide_6" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_6'"
+      A=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_10'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      ConstB=100.000000
+      MaterialExpressionEditorX=-4224
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=0B0D23C64C7ACD08CE2C62976A006B5C
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionDivide_5" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_5'"
+      A=(Expression="/Script/Engine.MaterialExpressionAppendVector'M_StylizedVolumetricClouds:MaterialExpressionAppendVector_1'")
+      ConstB=100.000000
+      MaterialExpressionEditorX=-4096
+      MaterialExpressionEditorY=-400
+      MaterialExpressionGuid=47E198894BF0C975AC2A3F8CAE2578D0
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionDivide_4" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_4'"
+      B=(Expression="/Script/Engine.MaterialExpressionMax'M_StylizedVolumetricClouds:MaterialExpressionMax_0'")
+      MaterialExpressionEditorX=-2320
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=43EDB7184E7828C3F6C2D8AA7FC2597E
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionDivide_3" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_3'"
+      A=(Expression="/Script/Engine.MaterialExpressionWorldPosition'M_StylizedVolumetricClouds:MaterialExpressionWorldPosition_2'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_3'")
+      MaterialExpressionEditorX=-3056
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=E41377234FDF267C58676485EBF5FD06
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionDivide_1" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionComponentMask'M_StylizedVolumetricClouds:MaterialExpressionComponentMask_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_0'")
+      MaterialExpressionEditorX=-3040
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=FF44E7E84F33CDEC3C878E96A73B75BE
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionDivide_0" ExportPath="/Script/Engine.MaterialExpressionDivide'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionDivide_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_1'",OutputIndex=2,Mask=1,MaskG=1)
+      ConstB=100.000000
+      MaterialExpressionEditorX=-2112
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=D89543BA4B1E639BB37FF59163626880
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionCustom_1" ExportPath="/Script/Engine.MaterialExpressionCustom'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionCustom_1'"
+      Code="return exp(-x);"
+      OutputType=CMOT_Float1
+      Description="exp(-x)"
+      Inputs(0)=(InputName="x",Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_5'"))
+      MaterialExpressionEditorX=-2896
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=C5637690447E7C27766CB288A2D90EB7
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionCustom_0" ExportPath="/Script/Engine.MaterialExpressionCustom'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionCustom_0'"
+      Code="return exp(-x);"
+      OutputType=CMOT_Float1
+      Description="exp(-x)"
+      Inputs(0)=(InputName="x",Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_6'"))
+      MaterialExpressionEditorX=-2896
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=C5637690447E7C27766CB288A2D90EB7
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_0" ExportPath="/Script/Engine.MaterialExpressionComponentMask'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComponentMask_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionWorldPosition'M_StylizedVolumetricClouds:MaterialExpressionWorldPosition_0'")
+      R=True
+      G=True
+      MaterialExpressionEditorX=-3216
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=E63625F8475608F7D7057D85A35FB990
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_7" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_7'"
+      SizeX=912
+      SizeY=512
+      Text="Wind Clouds"
+      MaterialExpressionEditorX=-4544
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=EA1E92824A938F0539A5EEA29E8ED988
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_6" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_6'"
+      SizeX=912
+      SizeY=512
+      Text="Wind Mask"
+      MaterialExpressionEditorX=-4544
+      MaterialExpressionEditorY=-672
+      MaterialExpressionGuid=EA1E92824A938F0539A5EEA29E8ED988
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_5" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_5'"
+      SizeX=608
+      SizeY=832
+      Text="Main"
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=-112
+      MaterialExpressionGuid=7CD119AB4261B8EA67FF3DA8BF0509C3
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_4" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_4'"
+      SizeX=656
+      SizeY=624
+      Text="Volumetric Advanced"
+      MaterialExpressionEditorX=-1456
+      MaterialExpressionEditorY=-96
+      MaterialExpressionGuid=A6101A37420F2C1513F0579256754961
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_3" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_3'"
+      SizeX=1936
+      SizeY=528
+      Text="Folloff"
+      MaterialExpressionEditorX=-3504
+      MaterialExpressionEditorY=-96
+      MaterialExpressionGuid=1A2A239C472F5413024C53A231720474
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_2" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_2'"
+      SizeX=1920
+      SizeY=528
+      Text="Cloud Detail"
+      MaterialExpressionEditorX=-3504
+      MaterialExpressionEditorY=480
+      MaterialExpressionGuid=718C5C34438A105EE349B5AABD964268
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionComment_1" ExportPath="/Script/Engine.MaterialExpressionComment'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionComment_1'"
+      SizeX=1920
+      SizeY=512
+      Text="Cloud Texture Mask"
+      MaterialExpressionEditorX=-3504
+      MaterialExpressionEditorY=-672
+      MaterialExpressionGuid=718C5C34438A105EE349B5AABD964268
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionCloudSampleAttribute_0" ExportPath="/Script/Engine.MaterialExpressionCloudSampleAttribute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionCloudSampleAttribute_0'"
+      MaterialExpressionEditorX=-3456
+      MaterialExpressionEditorY=208
+      MaterialExpressionGuid=EE159874458FA6CB130051894FEB6B81
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionAppendVector_1" ExportPath="/Script/Engine.MaterialExpressionAppendVector'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionAppendVector_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_8'",OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_8'",OutputIndex=2,Mask=1,MaskG=1)
+      MaterialExpressionEditorX=-4224
+      MaterialExpressionEditorY=-400
+      MaterialExpressionGuid=1E0679524DB238CB919B818599381819
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_3" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionAdd_3'"
+      A=(Expression="/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_3'")
+      B=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_5'")
+      MaterialExpressionEditorX=-2816
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=1D6F7A0D4BEDB15C4C2EB88845F89FDF
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_2" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionAdd_2'"
+      A=(Expression="/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_3'")
+      MaterialExpressionEditorX=-2864
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=CB377C4C465087659DBF249C6A755DD8
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_1" ExportPath="/Script/Engine.MaterialExpressionAdd'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionAdd_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionSubtract'M_StylizedVolumetricClouds:MaterialExpressionSubtract_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_1'")
+      MaterialExpressionEditorX=-2048
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=261B1BAA434072B02584A9A92F25F01A
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="M_StylizedVolumetricCloudsEditorOnlyData" ExportPath="/Script/Engine.MaterialEditorOnlyData'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:M_StylizedVolumetricCloudsEditorOnlyData'"
+      BaseColor=(Constant=(R=0.501961,G=0.501961,B=0.501961,A=1.000000),Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      SubsurfaceColor=(Constant=(R=0.000000,G=0.000000,B=0.000000,A=0.000000),Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_0'")
+      ExpressionCollection=(Expressions=("/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_0'","/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_0'","/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_StylizedVolumetricClouds:MaterialExpressionTextureSampleParameter2D_0'","/Script/Engine.MaterialExpressionWorldPosition'M_StylizedVolumetricClouds:MaterialExpressionWorldPosition_0'","/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_1'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_0'","/Script/Engine.MaterialExpressionSubtract'M_StylizedVolumetricClouds:MaterialExpressionSubtract_0'","/Script/Engine.MaterialExpressionStaticComponentMaskParameter'M_StylizedVolumetricClouds:MaterialExpressionStaticComponentMaskParameter_0'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_1'","/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_0'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_0'","/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_1'","/Script/Engine.MaterialExpressionWorldPosition'M_StylizedVolumetricClouds:MaterialExpressionWorldPosition_2'","/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_3'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_3'","/Script/Engine.MaterialExpressionSubtract'M_StylizedVolumetricClouds:MaterialExpressionSubtract_1'","/Script/Engine.MaterialExpressionStaticComponentMaskParameter'M_StylizedVolumetricClouds:MaterialExpressionStaticComponentMaskParameter_1'","/Script/Engine.MaterialExpressionReroute'M_StylizedVolumetricClouds:MaterialExpressionReroute_1'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_4'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_1'","/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_3'","/Script/Engine.MaterialExpressionReroute'M_StylizedVolumetricClouds:MaterialExpressionReroute_2'","/Script/Engine.MaterialExpressionAdd'M_StylizedVolumetricClouds:MaterialExpressionAdd_1'","/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_1'","/Script/Engine.MaterialExpressionTextureSample'M_StylizedVolumetricClouds:MaterialExpressionTextureSample_2'","/Script/Engine.MaterialExpressionCloudSampleAttribute'M_StylizedVolumetricClouds:MaterialExpressionCloudSampleAttribute_0'","/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_4'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_5'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_6'","/Script/Engine.MaterialExpressionOneMinus'M_StylizedVolumetricClouds:MaterialExpressionOneMinus_0'","/Script/Engine.MaterialExpressionOneMinus'M_StylizedVolumetricClouds:MaterialExpressionOneMinus_1'","/Script/Engine.MaterialExpressionOneMinus'M_StylizedVolumetricClouds:MaterialExpressionOneMinus_2'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_7'","/Script/Engine.MaterialExpressionMax'M_StylizedVolumetricClouds:MaterialExpressionMax_0'","/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_4'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_8'","/Script/Engine.MaterialExpressionReroute'M_StylizedVolumetricClouds:MaterialExpressionReroute_5'","/Script/Engine.MaterialExpressionReroute'M_StylizedVolumetricClouds:MaterialExpressionReroute_6'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_2'","/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_2'","/Script/Engine.MaterialExpressionVolumetricAdvancedMaterialOutput'M_StylizedVolumetricClouds:MaterialExpressionVolumetricAdvancedMaterialOutput_0'","/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_4'","/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_5'","/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_6'","/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_7'","/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_8'","/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_9'","/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_8'","/Script/Engine.MaterialExpressionAppendVector'M_StylizedVolumetricClouds:MaterialExpressionAppendVector_1'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_3'","/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_3'","/Script/Engine.MaterialExpressionTime'M_StylizedVolumetricClouds:MaterialExpressionTime_0'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_9'","/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_5'","/Script/Engine.MaterialExpressionAdd'M_StylizedVolumetricClouds:MaterialExpressionAdd_2'","/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_10'","/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_5'","/Script/Engine.MaterialExpressionTime'M_StylizedVolumetricClouds:MaterialExpressionTime_1'","/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_10'","/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_6'","/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_5'","/Script/Engine.MaterialExpressionAdd'M_StylizedVolumetricClouds:MaterialExpressionAdd_3'","/Script/Engine.MaterialExpressionCustom'M_StylizedVolumetricClouds:MaterialExpressionCustom_0'","/Script/Engine.MaterialExpressionCustom'M_StylizedVolumetricClouds:MaterialExpressionCustom_1'","/Script/Engine.MaterialExpressionComponentMask'M_StylizedVolumetricClouds:MaterialExpressionComponentMask_0'"),EditorComments=("/Script/Engine.MaterialExpressionComment'M_StylizedVolumetricClouds:MaterialExpressionComment_1'","/Script/Engine.MaterialExpressionComment'M_StylizedVolumetricClouds:MaterialExpressionComment_2'","/Script/Engine.MaterialExpressionComment'M_StylizedVolumetricClouds:MaterialExpressionComment_3'","/Script/Engine.MaterialExpressionComment'M_StylizedVolumetricClouds:MaterialExpressionComment_4'","/Script/Engine.MaterialExpressionComment'M_StylizedVolumetricClouds:MaterialExpressionComment_5'","/Script/Engine.MaterialExpressionComment'M_StylizedVolumetricClouds:MaterialExpressionComment_6'","/Script/Engine.MaterialExpressionComment'M_StylizedVolumetricClouds:MaterialExpressionComment_7'"))
+      ParameterGroupData(0)=(GroupName="Clouds")
+      ParameterGroupData(1)=(GroupName="Mask")
+      ParameterGroupData(2)=(GroupName="Mask")
+      ParameterGroupData(3)=(GroupName="Mask")
+      ParameterGroupData(4)=(GroupName="Clouds")
+      ParameterGroupData(5)=(GroupName="Clouds")
+      ParameterGroupData(6)=(GroupName="Clouds")
+      ParameterGroupData(7)=(GroupName="Advanced")
+      ParameterGroupData(8)=(GroupName="Advanced")
+      ParameterGroupData(9)=(GroupName="Advanced")
+      ParameterGroupData(10)=(GroupName="Advanced")
+      ParameterGroupData(11)=(GroupName="Advanced")
+      ParameterGroupData(12)=(GroupName="Advanced")
+      ParameterGroupData(13)=(GroupName="Wind")
+      ParameterGroupData(14)=(GroupName="Wind")
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0" ExportPath="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:SceneThumbnailInfoWithPrimitive_0'"
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_2" ExportPath="/Script/Engine.MaterialExpressionWorldPosition'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionWorldPosition_2'"
+      MaterialExpressionEditorX=-3312
+      MaterialExpressionEditorY=592
+      MaterialExpressionGuid=FC0348DD4E3D963E87652D99E3237E42
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_0" ExportPath="/Script/Engine.MaterialExpressionWorldPosition'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionWorldPosition_0'"
+      MaterialExpressionEditorX=-3456
+      MaterialExpressionEditorY=-560
+      MaterialExpressionGuid=1FEA6A4247C49F1C3DBCD18A9CC712AF
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionVolumetricAdvancedMaterialOutput_0" ExportPath="/Script/Engine.MaterialExpressionVolumetricAdvancedMaterialOutput'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVolumetricAdvancedMaterialOutput_0'"
+      PhaseG=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_4'")
+      PhaseG2=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_5'")
+      PhaseBlend=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_6'")
+      MultiScatteringContribution=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_7'")
+      MultiScatteringOcclusion=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_8'")
+      MultiScatteringEccentricity=(Expression="/Script/Engine.MaterialExpressionScalarParameter'M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_9'")
+      ConservativeDensity=(OutputIndex=4,Mask=1,MaskA=1)
+      MaterialExpressionEditorX=-1104
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=55EFD2DE4EBF3B2119E430B8BA85173C
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_8" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_8'"
+      ChannelNames=(R=NSLOCTEXT("", "9728CAE44BF803CB5C4E75B46216B481", "U"),G=NSLOCTEXT("", "228528204C11F86971DF679765ADA0A7", "V"))
+      ParameterName="Wind Mask"
+      ExpressionGUID=5255715D4C39ECCD38EF7CBEA0D549CD
+      Group="Wind"
+      MaterialExpressionEditorX=-4432
+      MaterialExpressionEditorY=-448
+      MaterialExpressionGuid=176436ED4BBE150FB789468A91C416C1
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+      bCollapsed=True
+      Outputs(0)=(OutputName="")
+      Outputs(1)=(OutputName="U")
+      Outputs(2)=(OutputName="V")
+      Outputs(3)=(OutputName="")
+      Outputs(4)=(OutputName="")
+      Outputs.RemoveIndex(5)
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_4" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_4'"
+      DefaultValue=(R=25.000000,G=25.000000,B=0.200000,A=1.000000)
+      ChannelNames=(R=NSLOCTEXT("", "C2AA4E5D4200CF38F2E9EF93C832FC13", "Falloff Upper"),G=NSLOCTEXT("", "C771F0C349AF286A171CF2A24695D51F", "Falloff Lower"),B=NSLOCTEXT("", "B9EEDA8C4E335DB444894A95ABFF3FF3", "Bias"))
+      ParameterName="Folloff Control"
+      ExpressionGUID=3342202143B827F2B2F8FD97C82933DD
+      Group="Clouds"
+      MaterialExpressionEditorX=-3456
+      MaterialExpressionEditorY=-32
+      MaterialExpressionGuid=BB88CC9645BDB436E5E72BB83A00A23B
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+      Outputs(0)=(OutputName="")
+      Outputs(1)=(OutputName="Falloff Upper")
+      Outputs(2)=(OutputName="Falloff Lower")
+      Outputs(3)=(OutputName="Bias")
+      Outputs(4)=(OutputName="")
+      Outputs.RemoveIndex(5)
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_3" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_3'"
+      DefaultValue=(R=10.000000,G=1.000000,B=0.500000,A=1.000000)
+      ChannelNames=(R=NSLOCTEXT("", "753575E14E97C461D343E5B583493309", "Tiling"),G=NSLOCTEXT("", "EF561AE4453CC572CCBCE682B28D985A", "Bias"),B=NSLOCTEXT("", "F55C493C405C7B9BA09F7CABA81FA86A", "Detail"))
+      ParameterName="Cloud Detail Control"
+      ExpressionGUID=DC63933D4714A7B40948BDA2C8FCC197
+      Group="Clouds"
+      MaterialExpressionEditorX=-3456
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=97F6F4CE4901029E9BA549AAAE0BD0BE
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+      Outputs(0)=(OutputName="")
+      Outputs(1)=(OutputName="Tiling")
+      Outputs(2)=(OutputName="Bias")
+      Outputs(3)=(OutputName="Detail")
+      Outputs(4)=(OutputName="")
+      Outputs.RemoveIndex(5)
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_10" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_10'"
+      ParameterName="Wind Clouds"
+      ExpressionGUID=09E6BEDE49A90DF6239A8B961FB4AA0A
+      Group="Wind"
+      MaterialExpressionEditorX=-4432
+      MaterialExpressionEditorY=704
+      MaterialExpressionGuid=03872C534A07FD204F2EF189247CBDB7
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_1" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_1'"
+      DefaultValue=(R=40.000000,G=0.200000,B=0.000000,A=0.000000)
+      ChannelNames=(R=NSLOCTEXT("", "753575E14E97C461D343E5B583493309", "Tiling"),G=NSLOCTEXT("", "538E685F4A2DCEA8A2459AA652844DD8", "Density"))
+      ParameterName="Mask Control"
+      ExpressionGUID=B3EC8FCD4FFEB11AB7A855AA42871F4E
+      Group="Mask"
+      MaterialExpressionEditorX=-3456
+      MaterialExpressionEditorY=-400
+      MaterialExpressionGuid=F530C37941B73BF47810CC8C3CA149B2
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+      Outputs(0)=(OutputName="")
+      Outputs(1)=(OutputName="Tiling")
+      Outputs(2)=(OutputName="Density")
+      Outputs(3)=(OutputName="")
+      Outputs(4)=(OutputName="")
+      Outputs.RemoveIndex(5)
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0" ExportPath="/Script/Engine.MaterialExpressionVectorParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_0'"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000)
+      ParameterName="Cloud Color"
+      ExpressionGUID=C42CF5F34B87CD9CE55EDF8A8BAEE458
+      Group="Clouds"
+      SortPriority=0
+      MaterialExpressionEditorX=-192
+      MaterialExpressionEditorY=-16
+      MaterialExpressionGuid=05F0034344072542E101149C0AE44271
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionTime_1" ExportPath="/Script/Engine.MaterialExpressionTime'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionTime_1'"
+      MaterialExpressionEditorX=-4224
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=E3B314A7492B0A1F8F759186109413F8
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionTime_0" ExportPath="/Script/Engine.MaterialExpressionTime'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionTime_0'"
+      MaterialExpressionEditorX=-4224
+      MaterialExpressionEditorY=-528
+      MaterialExpressionGuid=F1E3E5E146CD8F82A5852C936B281D45
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSampleParameter2D_0" ExportPath="/Script/Engine.MaterialExpressionTextureSampleParameter2D'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionTextureSampleParameter2D_0'"
+      ParameterName="Mask Texture"
+      ExpressionGUID=DF27284D4BACD92E9825DFB08A43668F
+      Group="Mask"
+      Coordinates=(Expression="/Script/Engine.MaterialExpressionAdd'M_StylizedVolumetricClouds:MaterialExpressionAdd_2'")
+      Texture="/Script/Engine.Texture2D'/Game/StylizedVolClouds/Textures/Greyscale/MT_Greyscale_01.MT_Greyscale_01'"
+      SamplerType=SAMPLERTYPE_Masks
+      MaterialExpressionEditorX=-2688
+      MaterialExpressionEditorY=-560
+      MaterialExpressionGuid=82E9F46942F351B80A2DCD945202E01C
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2" ExportPath="/Script/Engine.MaterialExpressionTextureSample'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionTextureSample_2'"
+      Coordinates=(Expression="/Script/Engine.MaterialExpressionAdd'M_StylizedVolumetricClouds:MaterialExpressionAdd_3'")
+      Texture="/Script/Engine.VolumeTexture'/Game/StylizedVolClouds/Textures/VolumeTextures/VT_Voronoi.VT_Voronoi'"
+      SamplerType=SAMPLERTYPE_LinearColor
+      MaterialExpressionEditorX=-2624
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=1EABC49C4046CDD125DE21AD701AA678
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_1" ExportPath="/Script/Engine.MaterialExpressionSubtract'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionSubtract_1'"
+      A=(Expression="/Script/Engine.MaterialExpressionStaticComponentMaskParameter'M_StylizedVolumetricClouds:MaterialExpressionStaticComponentMaskParameter_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionReroute'M_StylizedVolumetricClouds:MaterialExpressionReroute_1'")
+      MaterialExpressionEditorX=-2112
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=A4F1D8D64DA815FFBC121483ED727AFF
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionSubtract_0" ExportPath="/Script/Engine.MaterialExpressionSubtract'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionSubtract_0'"
+      A=(Expression="/Script/Engine.MaterialExpressionStaticComponentMaskParameter'M_StylizedVolumetricClouds:MaterialExpressionStaticComponentMaskParameter_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionNamedRerouteUsage'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_2'")
+      MaterialExpressionEditorX=-2224
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=2D76BD91479E278E43A222ADD9A88CBF
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionStaticComponentMaskParameter_1" ExportPath="/Script/Engine.MaterialExpressionStaticComponentMaskParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionStaticComponentMaskParameter_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionTextureSample'M_StylizedVolumetricClouds:MaterialExpressionTextureSample_2'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      DefaultR=True
+      ParameterName="Cloud Detail Channel"
+      ExpressionGUID=C720E8734872DB9D6D0AD995ADC12B3C
+      Group="Clouds"
+      MaterialExpressionEditorX=-2352
+      MaterialExpressionEditorY=592
+      MaterialExpressionGuid=BFC7ED3C498FC67CCF2B668CC4B32BED
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionStaticComponentMaskParameter_0" ExportPath="/Script/Engine.MaterialExpressionStaticComponentMaskParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionStaticComponentMaskParameter_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionTextureSampleParameter2D'M_StylizedVolumetricClouds:MaterialExpressionTextureSampleParameter2D_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      DefaultR=True
+      ParameterName="Mask Channel"
+      ExpressionGUID=6A55BA364A0D805776332399C6458B87
+      Group="Mask"
+      MaterialExpressionEditorX=-2416
+      MaterialExpressionEditorY=-560
+      MaterialExpressionGuid=CE95234045CEEFBC530906B1399527C9
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_9" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_9'"
+      DefaultValue=0.500000
+      SliderMax=1.000000
+      ParameterName="MultiScatteringEccentricity"
+      ExpressionGUID=01481A834AD7433FC530A3A453793EB8
+      Group="Advanced"
+      SortPriority=6
+      MaterialExpressionEditorX=-1392
+      MaterialExpressionEditorY=400
+      MaterialExpressionGuid=B5ADCDB2414A41C6717C5487C3A741D3
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_8" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_8'"
+      DefaultValue=0.500000
+      SliderMax=1.000000
+      ParameterName="MultiScatteringOcclusion"
+      ExpressionGUID=C9B45447498D7CEB2C05DB816000FF34
+      Group="Advanced"
+      SortPriority=5
+      MaterialExpressionEditorX=-1376
+      MaterialExpressionEditorY=320
+      MaterialExpressionGuid=8C39AC7F4F97D09E568CD69E0715AE36
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_7" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_7'"
+      DefaultValue=0.500000
+      SliderMax=1.000000
+      ParameterName="MultiScatteringContribution"
+      ExpressionGUID=106569F742AD075C89FF1EB8FBDC7E59
+      Group="Advanced"
+      SortPriority=4
+      MaterialExpressionEditorX=-1408
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=71A223B3461C6D06314BD5B820D267BF
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_6" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_6'"
+      SliderMin=-1.000000
+      SliderMax=1.000000
+      ParameterName="PhaseBlend"
+      ExpressionGUID=F25395CC4C46581A3DC51499F8240C5B
+      Group="Advanced"
+      SortPriority=3
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=63BC6A554BC4C19F6C6872B48CD03A38
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_5" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_5'"
+      SliderMin=-1.000000
+      SliderMax=1.000000
+      ParameterName="PhaseG2"
+      ExpressionGUID=B843F073468E23A4DFA145ADD927C3F7
+      Group="Advanced"
+      SortPriority=2
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=80
+      MaterialExpressionGuid=A6071AC4442B29149A31B8A2CA178162
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_4" ExportPath="/Script/Engine.MaterialExpressionScalarParameter'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionScalarParameter_4'"
+      SliderMin=-1.000000
+      SliderMax=1.000000
+      ParameterName="PhaseG"
+      ExpressionGUID=247DA8D843CB3CD132AF6FAF7EEF0904
+      Group="Advanced"
+      SortPriority=1
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionGuid=54499758446351524916ABBD9A22C7B5
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_6" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionReroute_6'"
+      Input=(Expression="/Script/Engine.MaterialExpressionReroute'M_StylizedVolumetricClouds:MaterialExpressionReroute_5'")
+      MaterialExpressionEditorX=-2256
+      MaterialExpressionEditorY=352
+      MaterialExpressionGuid=1CA3B7324317AB175F37E79D1146CE8D
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_5" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionReroute_5'"
+      Input=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_4'",OutputIndex=3,Mask=1,MaskB=1)
+      MaterialExpressionEditorX=-3136
+      MaterialExpressionEditorY=352
+      MaterialExpressionGuid=4B19646548A60531D45A1BBDEC61BDC2
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_2" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionReroute_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_3'",OutputIndex=3,Mask=1,MaskB=1)
+      MaterialExpressionEditorX=-2016
+      MaterialExpressionEditorY=896
+      MaterialExpressionGuid=55F8A46F489A28D717EC77B0670E34AC
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionReroute_1" ExportPath="/Script/Engine.MaterialExpressionReroute'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionReroute_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_3'",OutputIndex=2,Mask=1,MaskG=1)
+      MaterialExpressionEditorX=-2208
+      MaterialExpressionEditorY=880
+      MaterialExpressionGuid=9E41AB594E140D718924089E26D59689
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_2" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionOneMinus_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionCustom'M_StylizedVolumetricClouds:MaterialExpressionCustom_1'")
+      MaterialExpressionEditorX=-2752
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=57E40AE64AF32FD63DE928B7CD64CC06
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_1" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionOneMinus_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionCustom'M_StylizedVolumetricClouds:MaterialExpressionCustom_0'")
+      MaterialExpressionEditorX=-2752
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=1A47716A4B0FD7F753910E8522018ED8
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_0" ExportPath="/Script/Engine.MaterialExpressionOneMinus'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionOneMinus_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionCloudSampleAttribute'M_StylizedVolumetricClouds:MaterialExpressionCloudSampleAttribute_0'",OutputIndex=2)
+      MaterialExpressionEditorX=-3168
+      MaterialExpressionEditorY=160
+      MaterialExpressionGuid=A5D7A51B4B3FCBF2AAECEE8D6615C4D2
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteUsage_5" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_5'"
+      Declaration="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_5'"
+      DeclarationGuid=1161CCB24BCFD5A665FFA09058D1248E
+      MaterialExpressionEditorX=-2848
+      MaterialExpressionEditorY=720
+      MaterialExpressionGuid=8BA528744A4A9A1923045AAC800FA7D3
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteUsage_3" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_3'"
+      Declaration="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_3'"
+      DeclarationGuid=0C92206D440480BF04C4F5B267D128E6
+      MaterialExpressionEditorX=-2896
+      MaterialExpressionEditorY=-448
+      MaterialExpressionGuid=4EC08DC94B5F97E208C5819F1006D928
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteUsage_2" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_2'"
+      Declaration="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_2'"
+      DeclarationGuid=5973A56E4D1602E591936DBB21FAF977
+      MaterialExpressionEditorX=-2368
+      MaterialExpressionEditorY=-432
+      MaterialExpressionGuid=E65E3A9B49FB4C683417659307C25C4A
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteUsage_1" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_1'"
+      Declaration="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_1'"
+      DeclarationGuid=4BED06FD4935B2BB272E3F8E07499C0D
+      MaterialExpressionEditorX=-2192
+      MaterialExpressionEditorY=-432
+      MaterialExpressionGuid=2DF7785446B79F6AA9523384D38644DF
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteUsage_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteUsage'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteUsage_0'"
+      Declaration="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_0'"
+      DeclarationGuid=D029F735434495854DC27C84CF1C75C6
+      MaterialExpressionEditorX=-144
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=029214B948AA3ED6B05BBB8EC7B93F3C
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteDeclaration_5" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_5'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_10'")
+      Name="Offset Clouds"
+      NodeColor=(R=0.570312,G=0.000000,B=1.000000,A=1.000000)
+      VariableGuid=1161CCB24BCFD5A665FFA09058D1248E
+      MaterialExpressionEditorX=-3920
+      MaterialExpressionEditorY=640
+      MaterialExpressionGuid=D444AD51442B5299B88F288286DEBD23
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteDeclaration_3" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_3'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_9'")
+      Name="Offset Mask"
+      NodeColor=(R=0.570312,G=0.000000,B=1.000000,A=1.000000)
+      VariableGuid=0C92206D440480BF04C4F5B267D128E6
+      MaterialExpressionEditorX=-3920
+      MaterialExpressionEditorY=-512
+      MaterialExpressionGuid=58B748C24602D30AA744238286676454
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteDeclaration_2" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_2'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_8'")
+      Name="Folloff"
+      NodeColor=(R=0.734375,G=1.000000,B=0.000000,A=1.000000)
+      VariableGuid=5973A56E4D1602E591936DBB21FAF977
+      MaterialExpressionEditorX=-2016
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=2E348D4343162C265AE77F8258B1C0D5
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteDeclaration_1" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_1'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_4'")
+      Name="Cloud"
+      NodeColor=(R=0.000000,G=1.000000,B=0.273438,A=1.000000)
+      VariableGuid=4BED06FD4935B2BB272E3F8E07499C0D
+      MaterialExpressionEditorX=-1792
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=6855B7A149EDA04BB60EFB83BB3497CC
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionNamedRerouteDeclaration_0" ExportPath="/Script/Engine.MaterialExpressionNamedRerouteDeclaration'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionNamedRerouteDeclaration_0'"
+      Input=(Expression="/Script/Engine.MaterialExpressionMultiply'M_StylizedVolumetricClouds:MaterialExpressionMultiply_1'")
+      Name="Mask"
+      NodeColor=(R=0.000000,G=1.000000,B=0.273438,A=1.000000)
+      VariableGuid=D029F735434495854DC27C84CF1C75C6
+      MaterialExpressionEditorX=-1792
+      MaterialExpressionEditorY=-544
+      MaterialExpressionGuid=3EB70D1A44CD5ABA1A7FAEB94006B26F
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_9" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_9'"
+      A=(Expression="/Script/Engine.MaterialExpressionTime'M_StylizedVolumetricClouds:MaterialExpressionTime_0'")
+      B=(Expression="/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_5'")
+      MaterialExpressionEditorX=-4064
+      MaterialExpressionEditorY=-512
+      MaterialExpressionGuid=5EBA302E4C0C049ED981D6BEAEC4522F
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_8" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_8'"
+      A=(Expression="/Script/Engine.MaterialExpressionDivide'M_StylizedVolumetricClouds:MaterialExpressionDivide_4'")
+      B=(Expression="/Script/Engine.MaterialExpressionReroute'M_StylizedVolumetricClouds:MaterialExpressionReroute_6'")
+      MaterialExpressionEditorX=-2160
+      MaterialExpressionEditorY=112
+      MaterialExpressionGuid=65E83A084930480CAA86CE8B0C099BF7
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_7'"
+      A=(Expression="/Script/Engine.MaterialExpressionOneMinus'M_StylizedVolumetricClouds:MaterialExpressionOneMinus_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionOneMinus'M_StylizedVolumetricClouds:MaterialExpressionOneMinus_2'")
+      MaterialExpressionEditorX=-2608
+      MaterialExpressionEditorY=144
+      MaterialExpressionGuid=94A649D744620EBE2D77CCB098539DEC
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_6'"
+      A=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_4'",OutputIndex=1,Mask=1,MaskR=1)
+      B=(Expression="/Script/Engine.MaterialExpressionOneMinus'M_StylizedVolumetricClouds:MaterialExpressionOneMinus_0'")
+      MaterialExpressionEditorX=-3056
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=4B6295394E073675172DEBB1DBD9F9A6
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_5" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_5'"
+      A=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_4'",OutputIndex=2,Mask=1,MaskG=1)
+      B=(Expression="/Script/Engine.MaterialExpressionCloudSampleAttribute'M_StylizedVolumetricClouds:MaterialExpressionCloudSampleAttribute_0'",OutputIndex=2)
+      MaterialExpressionEditorX=-3056
+      MaterialExpressionEditorY=240
+      MaterialExpressionGuid=8BC06AB947805FF4ABCC648439BAD8C2
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_4" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_4'"
+      A=(Expression="/Script/Engine.MaterialExpressionSubtract'M_StylizedVolumetricClouds:MaterialExpressionSubtract_1'")
+      B=(Expression="/Script/Engine.MaterialExpressionReroute'M_StylizedVolumetricClouds:MaterialExpressionReroute_2'")
+      MaterialExpressionEditorX=-1936
+      MaterialExpressionEditorY=608
+      MaterialExpressionGuid=3C8F4E774B376E3098F1E59A3B3C0912
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3" ExportPath="/Script/Engine.MaterialExpressionMultiply'/Game/StylizedVolClouds/Materials/M_StylizedVolumetricClouds.M_StylizedVolumetricClouds:MaterialExpressionMultiply_3'"
+      A=(Expression="/Script/Engine.MaterialExpressionVectorParameter'M_StylizedVolumetricClouds:MaterialExpressionVectorParameter_3'",OutputIndex=1,Mask=1,MaskR=1)
+      ConstB=100000.000000
+      MaterialExpressionEditorX=-3216
+      MaterialExpressionEditorY=768
+      MaterialExpressionGuid=D2A32343445A3FBD4EF52E93F02B44AD
+      Material="/Script/Engine.Material'M_StylizedVolumetricClouds'"
+   End Object
+   MaterialDomain=MD_Volume
+   BlendMode=BLEND_Additive
+   bUsedWithVolumetricCloud=True
+   bCanMaskedBeAssumedOpaque=True
+   PixelDepthOffsetMode=PDOM_Legacy
+   StateId=7A5B213372B4B5F1E9B8E1C9091A3532
+   ReferencedTextureGuids(0)=F4E4515947AFC94246782BB40684E635
+   ReferencedTextureGuids(1)=09F14C2745A72E07CF3D828219B1A7E7
+   EditorOnlyData="/Script/Engine.MaterialEditorOnlyData'M_StylizedVolumetricCloudsEditorOnlyData'"
+   ReferencedDefaultTextures(0)="/Script/Engine.Texture2D'/Game/StylizedVolClouds/Textures/Greyscale/MT_Greyscale_01.MT_Greyscale_01'"
+   ReferencedDefaultTextures(1)="/Script/Engine.VolumeTexture'/Game/StylizedVolClouds/Textures/VolumeTextures/VT_Voronoi.VT_Voronoi'"
+   ThumbnailInfo="/Script/UnrealEd.SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'"
+   LightingGuid=E56812284F8F19BA817165A3D48450E3
+End Object
