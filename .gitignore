@@ -55,3 +55,9 @@ Packaged/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# ==========================================
+# 5.7 version: large unused Fab pack (13.6 GB VDB clouds, not used by any level).
+# Kept locally and in the zip backup; re-add from Fab if needed.
+# ==========================================
+Content/Clouds_Tunnel_Loop/
