@@ -61,3 +61,7 @@ Desktop.ini
 # Kept locally and in the zip backup; re-add from Fab if needed.
 # ==========================================
 Content/Clouds_Tunnel_Loop/
+
+# Blender files (too large for GitHub, kept locally only)
+*.blend1
+Model/*.blend
