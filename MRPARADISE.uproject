@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.8",
+	"EngineAssociation": "5.7",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -13,6 +13,34 @@
 		},
 		{
 			"Name": "GameplayStateTree",
+			"Enabled": true
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "ProceduralVegetationEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXR",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXRHandTracking",
+			"Enabled": true
+		},
+		{
+			"Name": "OpenXREyeTracker",
+			"Enabled": true
+		},
+		{
+			"Name": "XRVisualization",
+			"Enabled": true
+		},
+		{
+			"Name": "ResonanceAudio",
 			"Enabled": true
 		}
 	]
