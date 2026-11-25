@@ -15,3 +15,9 @@
 ## 克隆
 
 本仓库使用 Git LFS，克隆前请先安装 Git LFS（GitHub Desktop 自带）。
+
+## 穹顶、God 和 Jesus 模型
+
+穹顶模型与 16K 全景贴图位于 `Content/云/Dome_Panorama/`。人物模型位于 `Content/God/StaticMeshes/`、`Content/Jesus/StaticMeshes/`，可以直接拖入关卡。
+
+下载与导入方法见 [穹顶和人物导入说明](Docs/穹顶和人物导入说明.md)。本次三个模型目录在网页 ZIP 中也包含完整模型与贴图。仓库其他历史资源仍使用 Git LFS。
