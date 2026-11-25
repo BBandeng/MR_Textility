@@ -51,3 +51,8 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.7z  filter=lfs diff=lfs merge=lfs -text
 *.rar filter=lfs diff=lfs merge=lfs -text
+
+# Portable models: all files below 50 MiB; keep actual assets in ZIP downloads.
+"Content/云/Dome_Panorama/**" -filter -diff -merge -text
+Content/God/** -filter -diff -merge -text
+Content/Jesus/** -filter -diff -merge -text

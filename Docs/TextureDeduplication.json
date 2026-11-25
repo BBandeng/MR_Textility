@@ -1,0 +1,74 @@
+{
+  "before": 48,
+  "after": 4,
+  "groups": [
+    {
+      "kept": "/Game/God/Textures/Image_0",
+      "source_mtime_ns": 1795619085049150700,
+      "removed": [
+        "/Game/God/Textures/Image_01",
+        "/Game/God/Textures/Image_02",
+        "/Game/God/Textures/Image_03",
+        "/Game/God/Textures/Image_04",
+        "/Game/God/Textures/Image_05",
+        "/Game/God/Textures/Image_06",
+        "/Game/God/Textures/Image_07",
+        "/Game/God/Textures/Image_08",
+        "/Game/God/Textures/Image_09",
+        "/Game/God/Textures/Image_010",
+        "/Game/God/Textures/Image_011"
+      ]
+    },
+    {
+      "kept": "/Game/God/Textures/Image_1",
+      "source_mtime_ns": 1795619084927440500,
+      "removed": [
+        "/Game/God/Textures/Image_11",
+        "/Game/God/Textures/Image_12",
+        "/Game/God/Textures/Image_13",
+        "/Game/God/Textures/Image_14",
+        "/Game/God/Textures/Image_15"
+      ]
+    },
+    {
+      "kept": "/Game/Jesus/Textures/Image_0",
+      "source_mtime_ns": 1795619089434029500,
+      "removed": [
+        "/Game/Jesus/Textures/Image_01",
+        "/Game/Jesus/Textures/Image_02",
+        "/Game/Jesus/Textures/Image_03",
+        "/Game/Jesus/Textures/Image_04",
+        "/Game/Jesus/Textures/Image_05",
+        "/Game/Jesus/Textures/Image_06",
+        "/Game/Jesus/Textures/Image_07",
+        "/Game/Jesus/Textures/Image_08",
+        "/Game/Jesus/Textures/Image_09",
+        "/Game/Jesus/Textures/Image_010",
+        "/Game/Jesus/Textures/Image_011",
+        "/Game/Jesus/Textures/Image_012",
+        "/Game/Jesus/Textures/Image_013",
+        "/Game/Jesus/Textures/Image_014",
+        "/Game/Jesus/Textures/Image_015",
+        "/Game/Jesus/Textures/Image_016",
+        "/Game/Jesus/Textures/Image_017",
+        "/Game/Jesus/Textures/Image_018",
+        "/Game/Jesus/Textures/Image_019"
+      ]
+    },
+    {
+      "kept": "/Game/Jesus/Textures/Image_1",
+      "source_mtime_ns": 1795619089305806800,
+      "removed": [
+        "/Game/Jesus/Textures/Image_11",
+        "/Game/Jesus/Textures/Image_12",
+        "/Game/Jesus/Textures/Image_13",
+        "/Game/Jesus/Textures/Image_14",
+        "/Game/Jesus/Textures/Image_16",
+        "/Game/Jesus/Textures/Image_17",
+        "/Game/Jesus/Textures/Image_18",
+        "/Game/Jesus/Textures/Image_19",
+        "/Game/Jesus/Textures/Image_15"
+      ]
+    }
+  ]
+}

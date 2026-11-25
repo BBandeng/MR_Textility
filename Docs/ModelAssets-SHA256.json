@@ -1,0 +1,212 @@
+{
+  "engine": "Unreal Engine 5.7.4",
+  "asset_count": 41,
+  "total_bytes": 185033829,
+  "files": [
+    {
+      "path": "Content/云/Dome_Panorama/Enhanced/M_Dome_Unified.uasset",
+      "bytes": 10124,
+      "sha256": "355db62a7dc8f139f86419768582591aba450d04c8af4f11c6160f123072fc92"
+    },
+    {
+      "path": "Content/云/Dome_Panorama/Enhanced/MI_Dome_Unified.uasset",
+      "bytes": 2855,
+      "sha256": "09b6109ee3d4b85294e4b23919d1fbe5db53cb3d86b1e73c64e5fd3f2c515a01"
+    },
+    {
+      "path": "Content/云/Dome_Panorama/Enhanced/T_Dome_Full_Enhanced.uasset",
+      "bytes": 38788617,
+      "sha256": "9234962c73b65cb3d159f7d8792994c362f13695564fe6b03bcfafcec5507017"
+    },
+    {
+      "path": "Content/云/Dome_Panorama/SM_Dome_PanoramaBand.uasset",
+      "bytes": 486862,
+      "sha256": "c4012652d1a8c5bef46cbe3c22a22777a087b7ecb60b4218fc0ec1a418429abc"
+    },
+    {
+      "path": "Content/云/Dome_Panorama/SM_Dome_UpperCap.uasset",
+      "bytes": 360922,
+      "sha256": "afecedebe67b4f10ae2949bcca1f49da4e2975bc90079f05148ce021b1a68742"
+    },
+    {
+      "path": "Content/God/Materials/God_—_cloud_—_0.uasset",
+      "bytes": 68378,
+      "sha256": "0ad069e2134968f9473db4861b22b2909d1d53f0eb6c345b60ac6ebd635f503a"
+    },
+    {
+      "path": "Content/God/Materials/God_—_head_—_5.uasset",
+      "bytes": 68472,
+      "sha256": "559c68e462a82645d1a6b9d6148b5c8acf6cbf8b3762f51979fdea957a43a2aa"
+    },
+    {
+      "path": "Content/God/Materials/God_—_ivory_—_2.uasset",
+      "bytes": 68466,
+      "sha256": "7b326b66b0f600c4d0cc830fa822ca91ece5a8d4e046ee31929147fdff11be36"
+    },
+    {
+      "path": "Content/God/Materials/God_—_skin_—_1.uasset",
+      "bytes": 68442,
+      "sha256": "e76af6b634799f83981b842ed5183f4395a6fd3909b15ac85fdadb6a29f99adf"
+    },
+    {
+      "path": "Content/God/Materials/God_—_skin_—_3.uasset",
+      "bytes": 68470,
+      "sha256": "522c6d3dc5fdc286169a4d02515505fa80f43a1dba27cdca67c1420e09ac6ba5"
+    },
+    {
+      "path": "Content/God/Materials/God_—_skin_—_4.uasset",
+      "bytes": 68472,
+      "sha256": "fefcea8531c5fe4b6faa16ef2520453fee8fa0b49a04d4b259ed45669ab1a796"
+    },
+    {
+      "path": "Content/God/StaticMeshes/model_part0.uasset",
+      "bytes": 5337085,
+      "sha256": "cbdb243e4fcc2493248c23562949b77b1af4d23490397b670cf0ef0b652b43c2"
+    },
+    {
+      "path": "Content/God/StaticMeshes/model_part1.uasset",
+      "bytes": 986899,
+      "sha256": "26c628b2c8058bbd98e6ce5156e09505646f0f3c7e610fbf7ffdf6bb6cb52532"
+    },
+    {
+      "path": "Content/God/StaticMeshes/model_part2.uasset",
+      "bytes": 19139181,
+      "sha256": "65f5cb094da1703c11b8189271bdd1c24462f8ac9a6ae2f1c55066dbc06f6392"
+    },
+    {
+      "path": "Content/God/StaticMeshes/model_part3.uasset",
+      "bytes": 1705902,
+      "sha256": "8742fdc553b60d26721e3570689ad2c71c14348fc74ca1f50d360cb338c289ab"
+    },
+    {
+      "path": "Content/God/StaticMeshes/model_part4.uasset",
+      "bytes": 4440700,
+      "sha256": "46f953b7bce63fdc0608248a63a41ce0a0264cf46a5003873f5479b449ac02a6"
+    },
+    {
+      "path": "Content/God/StaticMeshes/model_part5.uasset",
+      "bytes": 2983576,
+      "sha256": "62f504ac83939677b19d1ad6c68b0537e744c5c486c8cc117309b7ae81358238"
+    },
+    {
+      "path": "Content/God/Textures/Image_0.uasset",
+      "bytes": 21687531,
+      "sha256": "97190a66eef5c475e0c56424887a0359d778d8daaed30f82a27f4269caa73d3b"
+    },
+    {
+      "path": "Content/God/Textures/Image_1.uasset",
+      "bytes": 17197415,
+      "sha256": "99176de95b2165de65233ca1265ce35a80818b3e7aae66de06c1dc8038c191cc"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_cloud_—_9.uasset",
+      "bytes": 68654,
+      "sha256": "5712d306d13cc544d4a5ba25627f88c965e231b78c8c5f3f657a39e6f22e609b"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_coral_—_5.uasset",
+      "bytes": 68638,
+      "sha256": "024f8a88da8e3633565e80513357dbcbaa552b1419ef7cb93bbc76183c2953bc"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_head_—_6.uasset",
+      "bytes": 68622,
+      "sha256": "ae75cbf4920dbd4bee9648b7c7f5f2febd176905a43cb462942a294d11fdb6f8"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_ivory_—_3.uasset",
+      "bytes": 68636,
+      "sha256": "362aaa51f3bad13f1ab1c08f543c237b8b597fdafcea8df749588a5b79ea92fa"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_ivory_—_4.uasset",
+      "bytes": 68638,
+      "sha256": "c6cad7a83c5a0aa700fda738b5fcaee07e3c6aadfe72ddaed081024e39ad4d9f"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_mixed_cloth_—_7.uasset",
+      "bytes": 68742,
+      "sha256": "344517c37cf12e6968fbab657586912764ef769d334607116f09f5c3398b2289"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_skin_ivory_—_1.uasset",
+      "bytes": 68704,
+      "sha256": "9b89321d1351a588b9126c163cf2bf86c1315d38ce25e0772e368aacb0918bfb"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_skin_—_0.uasset",
+      "bytes": 68512,
+      "sha256": "cb29b568d5191632d1b6d720d9c53c8edd6f14a7a9b263913eb56ad82b140ef7"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_skin_—_2.uasset",
+      "bytes": 68608,
+      "sha256": "79c9114c52d91e00dc4cb9dfae4edb98fcad9583419a76cdc83926cbea87c0cc"
+    },
+    {
+      "path": "Content/Jesus/Materials/Jesus_—_teal_—_8.uasset",
+      "bytes": 68638,
+      "sha256": "ed53fff4b160455c6aeec6d6d3c2693299cc936e91be9cf668438f4bc45c7564"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part0.uasset",
+      "bytes": 809072,
+      "sha256": "00cdf115d95046ed14fce1534fae4ae6bf4cb5717696fa264903482c1777e4c9"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part1.uasset",
+      "bytes": 863008,
+      "sha256": "d6c7fedcae77f2875209ec2bef9387d114a1aa69180184a9dea9428748996cb7"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part2.uasset",
+      "bytes": 753285,
+      "sha256": "8ab6008a7f81fa4df3d15b4ac0aeae0c5439cdc8a86b76f490e01c3bb3ad78d1"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part3.uasset",
+      "bytes": 1518660,
+      "sha256": "354e3411f82303c50a3c0d9c616edb683e4a782d7ea128e91d6eb4efd4726311"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part4.uasset",
+      "bytes": 1884330,
+      "sha256": "1bbaaa7d38b0bebef439a17fddfb9ec556fece4d8592837c7cf35b9a9f0fb7b9"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part5.uasset",
+      "bytes": 2382557,
+      "sha256": "81bb0494c062ac401f6a5a6240125a3723413589b29a0bd208a2968c64fabf3b"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part6.uasset",
+      "bytes": 3881044,
+      "sha256": "4f13276ac86dcaa711bb6fb06662c35ed12a57bf5c58e749f17b55461fbb4891"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part7.uasset",
+      "bytes": 5264956,
+      "sha256": "b31461e8c22e755febf6535417e3ffbc491d112b2350e1f46f12d0777c5044b2"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part8.uasset",
+      "bytes": 5754756,
+      "sha256": "18fdb1e50b059ed92756f275e706a4b3dd8d7615b7e38222414a080e8bea937b"
+    },
+    {
+      "path": "Content/Jesus/StaticMeshes/model_part9.uasset",
+      "bytes": 5815748,
+      "sha256": "615bffb64cf0d559d81d91a5544a6cd2526accd87a4d65267bed4b9268f8a59a"
+    },
+    {
+      "path": "Content/Jesus/Textures/Image_0.uasset",
+      "bytes": 22638263,
+      "sha256": "4112ddb70579ffbd6135e908a8d91acc4134e09ee793c9e8992f8a33b7c354c5"
+    },
+    {
+      "path": "Content/Jesus/Textures/Image_1.uasset",
+      "bytes": 19243389,
+      "sha256": "ab06209af018324ba0cc56f2a374581c5dd150a67bc9ac89c91c726e33faaf6d"
+    }
+  ]
+}
