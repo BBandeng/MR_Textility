@@ -56,3 +56,6 @@
 "Content/云/Dome_Panorama/**" -filter -diff -merge -text
 Content/God/** -filter -diff -merge -text
 Content/Jesus/** -filter -diff -merge -text
+
+# Recovered native map; avoid storing unresolved LFS merge text.
+Content/Level1Heaven_RealClouds.umap -filter -diff -merge -text
